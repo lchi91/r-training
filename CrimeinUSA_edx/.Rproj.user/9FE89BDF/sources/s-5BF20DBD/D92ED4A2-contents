@@ -1,0 +1,37 @@
+install.packages("dslabs")
+library(dslabs)
+data("murders")
+
+class(murders)
+str(murders)
+head(murders)
+murders$population
+names(murders)
+pop <- murders$population
+length(pop)
+class(pop)
+class(murders$state)
+levels(murders$region)
+
+View(murders)
+
+a <- 2
+b <- -1
+c <- -4
+x1 <- (-b + sqrt(b^2 - 4*a*c))/(2*a)
+x2 <- (-b - sqrt(b^2 - 4*a*c))/(2*a)
+print(x1)
+print(x2)
+
+log(1024,4)
+
+data("movielens")
+nrow(movielens)
+
+# Number of different variables
+length(names(movielens))
+
+class(movielens$title)
+class(movielens$genres)
+
+nlevels(movielens$genres)

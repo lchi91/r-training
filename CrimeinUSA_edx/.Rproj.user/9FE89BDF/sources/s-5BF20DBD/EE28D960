@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1585041222860.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "EE28D960",
+    "lastKnownWriteTime" : 28429470871322725,
+    "last_content_update" : 1585041222860,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "49C837CE",
+        "caption" : "murders",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=murders&cache_key=49C837CE",
+        "displayedObservations" : 51,
+        "environment" : "",
+        "expression" : "murders",
+        "object" : "murders",
+        "preview" : 0,
+        "totalObservations" : 51,
+        "variables" : 5
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

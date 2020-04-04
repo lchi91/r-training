@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1585882258212.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4217248087",
+    "id" : "E5CCED93",
+    "lastKnownWriteTime" : 1585904611,
+    "last_content_update" : 1585904611561,
+    "path" : "~/ProjectTraining/NormalDistributions.R",
+    "project_path" : "NormalDistributions.R",
+    "properties" : {
+        "cursorPosition" : "32,0",
+        "scrollLine" : "14",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

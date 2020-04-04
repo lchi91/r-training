@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1585904629818.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1991799643",
+    "id" : "DF0325B5",
+    "lastKnownWriteTime" : 1586016127,
+    "last_content_update" : 1586016127325,
+    "path" : "~/ProjectTraining/CentralLimitTheorem.R",
+    "project_path" : "CentralLimitTheorem.R",
+    "properties" : {
+        "cursorPosition" : "110,0",
+        "scrollLine" : "95",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
